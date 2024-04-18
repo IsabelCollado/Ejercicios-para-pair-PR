@@ -19,8 +19,8 @@
 
 
 .head:hover {
-
-    background-color: powderblue;
+    font-size: 2rem;
+    background-color: rgb(238, 130, 6);
     transition: background-color 0.5s;
 }
 
