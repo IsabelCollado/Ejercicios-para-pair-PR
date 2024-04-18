@@ -16,6 +16,14 @@
     transform: translate(-50%, -60%) rotate(90deg);
 }
 
+
+
+.head:hover {
+    font-size: 2rem;
+    background-color: rgb(238, 130, 6);
+    transition: background-color 0.5s;
+}
+
 .page {
     display: flex;
     justify-content: center;
