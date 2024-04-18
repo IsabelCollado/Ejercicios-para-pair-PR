@@ -16,6 +16,14 @@
     transform: translate(-50%, -60%) rotate(90deg);
 }
 
+
+
+.head:hover {
+
+    background-color: powderblue;
+    transition: background-color 0.5s;
+}
+
 .page {
     display: flex;
     justify-content: center;
